@@ -42,6 +42,6 @@ const CartComponent = () => {
       </Container>
     </div>
   )
-};
+}; 
 
 export default CartComponent;
